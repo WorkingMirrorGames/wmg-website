@@ -1,6 +1,7 @@
 {
   "name": "wmg-website",
-  "version": "0.0.1",
+  "author": "Working Mirror Games e. K.",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "vite dev",

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "id": "0",
+    "type": "Game",
+    "name": "Example Game",
+    "description": "Cool new game.",
+    "tags": ["action", "fps"]
+  },
+  "1": {
+    "id": "1",
+    "type": "Game",
+    "name": "Amazing Game",
+    "description": "My great game.",
+    "tags": ["adventure", "platformer"]
+  },
+  "2": {
+    "id": "2",
+    "type": "Asset",
+    "name": "Example Asset",
+    "description": "Cool new asset.",
+    "tags": ["ui"]
+  },
+  "3": {
+    "id": "3",
+    "type": "Asset",
+    "name": "Amazing Asset",
+    "description": "My great asset.",
+    "tags": ["ui"]
+  },
+  "4": {
+    "id": "4",
+    "type": "Asset",
+    "name": "Another Asset",
+    "description": "My great asset.",
+    "tags": ["tool"]
+  }
+}
