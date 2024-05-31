@@ -185,3 +185,13 @@
     src: url(/fonts/roboto-mono/700-bold-italic.ttf) format('truetype');
   }
 }
+
+@layer components {
+  .btn {
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.75;
+    letter-spacing: 0.02857rem;
+    text-transform: uppercase;
+  }
+}
